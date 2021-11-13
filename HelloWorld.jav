@@ -2,7 +2,7 @@
 
 //updated version that compiles; it was bothering me that it wouldn't compile so I fixed the problem, which was that 
 //my filename was wrong! This file should compile for you, I'm sorry for any awkwardness from the zoom call.
-
+//you will have to change the name to HelloWorld.java, though, because I already used .java on my first submission
 
 package helloworld;
 
